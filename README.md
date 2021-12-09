@@ -9,9 +9,9 @@ Developed first with the For me, this website is suitable for those who have jus
 
 Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Link to website:
+Link to website: https://wiut12192.netlify.app/
 
-Link to GitHub:
+Link to GitHub: https://github.com/student00012192/WebTech.git
 
 -Prewiev home page ⬇️
 
